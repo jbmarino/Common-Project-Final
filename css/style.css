@@ -60,6 +60,7 @@ li{
     margin-top: 30px;
     transition: .3s ease;
     transition-property: background-color, color;
+    text-decoration: none;
 }
 .cta:hover{
     color: white;
